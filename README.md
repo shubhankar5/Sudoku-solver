@@ -1,4 +1,5 @@
 # Sudoku-solver
-C++ code to solve a given sudoku using backtracking.
+C++ code to solve given sudoku using backtracking.
 
-Enter values in the code input itself.
+## How to use?
+Enter values for your sudoku in the code input itself and run sudoku.cpp to get the solution for it
